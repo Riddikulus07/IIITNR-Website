@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://riddikulus07.github.io/IIITNR-Website/</loc>
+    <lastmod>2024-11-29</lastmod>
+    <priority>1.00</priority>
+  </url>
+
+  <!-- Academics Page -->
+  <url>
+    <loc>https://riddikulus07.github.io/IIITNR-Website/academics.html</loc>
+    <lastmod>2024-11-29</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- B.Tech Programs -->
+  <url>
+    <loc>https://riddikulus07.github.io/IIITNR-Website/cs.html</loc>
+    <lastmod>2024-11-29</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://riddikulus07.github.io/IIITNR-Website/ece.html</loc>
+    <lastmod>2024-11-29</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://riddikulus07.github.io/IIITNR-Website/dsai.html</loc>
+    <lastmod>2024-11-29</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- M.Tech Programs -->
+  <url>
+    <loc>https://riddikulus07.github.io/IIITNR-Website/csm.html</loc>
+    <lastmod>2024-11-29</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://riddikulus07.github.io/IIITNR-Website/ecem.html</loc>
+    <lastmod>2024-11-29</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Ph.D Program -->
+  <url>
+    <loc>https://riddikulus07.github.io/IIITNR-Website/phd.html</loc>
+    <lastmod>2024-11-29</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Admission Page -->
+  <url>
+    <loc>https://riddikulus07.github.io/IIITNR-Website/admission.html</loc>
+    <lastmod>2024-11-29</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- Gallery Page -->
+  <url>
+    <loc>https://riddikulus07.github.io/IIITNR-Website/gallery.html</loc>
+    <lastmod>2024-11-29</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- Tribes 2021 Photos -->
+  <url>
+    <loc>https://riddikulus07.github.io/IIITNR-Website/gallery2.html</loc>
+    <lastmod>2024-11-29</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Scientific 2020 Photos -->
+  <url>
+    <loc>https://riddikulus07.github.io/IIITNR-Website/gallery2.html#scientific2020</loc>
+    <lastmod>2024-11-29</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- More Photos -->
+  <url>
+    <loc>https://riddikulus07.github.io/IIITNR-Website/gallery2.html#morephotos</loc>
+    <lastmod>2024-11-29</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Contact Us Page -->
+  <url>
+    <loc>https://riddikulus07.github.io/IIITNR-Website/contact.html</loc>
+    <lastmod>2024-11-29</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- Contact Us Subpages -->
+  <url>
+    <loc>https://riddikulus07.github.io/IIITNR-Website/facilities.html</loc>
+    <lastmod>2024-11-29</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Facilities -->
+  <url>
+    <loc>https://riddikulus07.github.io/IIITNR-Website/facilities.html#gym</loc>
+    <lastmod>2024-11-29</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://riddikulus07.github.io/IIITNR-Website/facilities.html#shoppingcenter</loc>
+    <lastmod>2024-11-29</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://riddikulus07.github.io/IIITNR-Website/facilities.html#canteen</loc>
+    <lastmod>2024-11-29</lastmod>
+    <priority>0.70</priority>
+  </url>
+
+</urlset>
